@@ -1,3 +1,6 @@
 this line is added from remote repo
 this line is added from local repo
 3rd line added from my local repo in ubuntu  
+this line is added from local repo 
+3rd line added from remote repo
+new added to check 
