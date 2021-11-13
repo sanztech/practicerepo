@@ -15,8 +15,12 @@ new line added from remote repo of L2 branch
 to check cherry pick command of GIT
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8a133a6... line edited
 =======
 >>>>>>> 8a133a6... line edited
 =======
 >>>>>>> 8a133a6... line edited
+=======
+my test from GIT cherrypick
+>>>>>>> cafd788... line added again
