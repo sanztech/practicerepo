@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 code not added
 new line of code added
 =======
+=======
+>>>>>>> 8a133a6... line edited
 =======
 >>>>>>> 8a133a6... line edited
 
@@ -11,6 +14,9 @@ new line of code added
 new line added from remote repo of L2 branch
 to check cherry pick command of GIT
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8a133a6... line edited
+=======
 >>>>>>> 8a133a6... line edited
 =======
 >>>>>>> 8a133a6... line edited
