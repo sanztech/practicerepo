@@ -23,4 +23,9 @@ to check cherry pick command of GIT
 >>>>>>> 8a133a6... line edited
 =======
 my test from GIT cherrypick
+<<<<<<< HEAD
 >>>>>>> cafd788... line added again
+=======
+test again for cherry-pick
+test 2 again
+>>>>>>> 0542be4... file added
