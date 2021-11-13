@@ -1,6 +1,2 @@
 b.txt
-<<<<<<< HEAD
-line added from local repo
-=======
 line added from remote repo
->>>>>>> ad6394268bc19da9076a17cfaaee359779c3c696
